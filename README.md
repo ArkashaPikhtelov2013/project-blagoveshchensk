@@ -1,2 +1,0 @@
-# project-butusov-bg
-project
